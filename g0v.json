@@ -1,0 +1,40 @@
+{
+  "author": "bater",
+  "contributors": [
+    "bater"
+  ],
+  "status": "beta",
+  "homepage": "https://va.twbbs.org/",
+  "name": "VotesAnalysis",
+  "name_zh": "選 票 成 份 分 析",
+  "description": "",
+  "description_zh": "了解哪一個立委(政治人物)與選民自己的立場最接近。",
+  "document": "http://hack.g0v.tw/movement.hackpad.com/1sHfx1slybZ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v-tw-congress-vote-analytics/congress-vote-analytics-beta"
+  },
+  "licenses": [
+    {
+      "type": "MIT License"
+    }
+  ],
+  "keywords": [
+    "bater","立法院"
+  ],
+  "audience": [
+    "public"
+  ],
+  "products": [
+    "website"
+  ],
+  "projects": [
+    "movement"
+  ],
+  "thumbnail": "",
+  "needs": [
+    "designer",
+    "programmer",
+    "writer"
+  ]
+}
