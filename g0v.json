@@ -4,12 +4,12 @@
     "bater","fntsrlike"
   ],
   "status": "beta",
-  "homepage": "https://va.twbbs.org/",
+  "homepage": "http://va.twbbs.org/",
   "name": "VotesAnalysis",
   "name_zh": "選 票 成 份 分 析",
   "description": "Let us know which one legislator (Or politicians) and their position closest to the voters.",
   "description_zh": "了解哪一個立委(政治人物)與選民自己的立場最接近。",
-  "document": "http://hack.g0v.tw/movement.hackpad.com/1sHfx1slybZ",
+  "document": "https://g0v.hackpad.com/YpOT9vjLthf",
   "repository": {
     "type": "git",
     "url": "https://github.com/g0v-tw-congress-vote-analytics/congress-vote-analytics-beta"
